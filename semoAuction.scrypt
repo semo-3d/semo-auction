@@ -1,4 +1,4 @@
-import "util.scrypt";
+import "semoUtil.scrypt";
 
 contract Auction {
     @state
