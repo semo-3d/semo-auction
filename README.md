@@ -1,4 +1,4 @@
-# SEMO AUCTION
+# SEMO AUCTION🔺
 
 This is a precompiled scrypt we are using for running our auction.
 Based on [this auction article](https://xiaohuiliu.medium.com/auction-on-bitcoin-4ba2b6c18ba7), we made a slight modification to track the highest bidder by `Ripemd160` of the original bidder. Once a higher bid comes in, the refund will be automatically made to the original funder of the previous bid.
