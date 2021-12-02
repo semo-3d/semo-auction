@@ -13,7 +13,7 @@ To see this auction working, please come check out auctions at [SEMO](https://ww
 
 ## SPECIAL THANKS
 
-[sCrypt Team](https://scrypt.io/)
+@sCrypt-Inc [sCrypt Team](https://scrypt.io/)
 
 
 
