@@ -11,6 +11,12 @@ To see this auction working, please come check out auctions at [SEMO](https://ww
 2. `npx scryptlib download`
 3. `npx scryptlib semoAuction.scrypt`
 
+## TODO
+ 
+ * starting time control
+ * minimum, maximum, and buyout setting
+ * fee calculation
+
 ## SPECIAL THANKS
 
 @sCrypt-Inc [sCrypt Team](https://scrypt.io/)
